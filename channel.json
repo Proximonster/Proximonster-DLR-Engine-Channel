@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "engineId": "dlr",
   "displayName": "Proximonster DLR",
-  "engineVersion": "1.1.1",
+  "engineVersion": "1.1.2",
   "targetRuntime": "win-x64",
   "upstreamRepository": "ihmily/DouyinLiveRecorder",
   "upstreamRelease": "v4.0.7",
@@ -10,9 +10,9 @@
   "adapterVersion": 2,
   "compatibility": "net8.0-windows; Phase DLR-2: Douyin + Bilibili + Huya recording",
   "distributionRepository": "Proximonster/Proximonster-DLR-Engine-Channel",
-  "distributionRelease": "dlr-engine-1.1.1",
-  "distributionAsset": "Proximonster-DLR-Engine-1.1.1-win-x64.zip",
-  "downloadUrl": "https://proximonster.github.io/Proximonster-DLR-Engine-Channel/packages/Proximonster-DLR-Engine-1.1.1-win-x64.zip",
-  "archiveSha256": "066fc8ee5bf02946bf7210358a00c40f7f0dd3a3e39e990826154d788c168ee2",
-  "publishedAtUtc": "2026-09-19T17:52:08Z"
+  "distributionRelease": "dlr-engine-1.1.2-rollback-test",
+  "distributionAsset": "Proximonster-DLR-Engine-1.1.2-win-x64.zip",
+  "downloadUrl": "https://proximonster.github.io/Proximonster-DLR-Engine-Channel/packages/Proximonster-DLR-Engine-1.1.2-win-x64.zip",
+  "archiveSha256": "24cc782a9e80866c5387950f9ebf50bc122c104c124335946fade780525663bf",
+  "publishedAtUtc": "2026-09-19T19:00:00Z"
 }
