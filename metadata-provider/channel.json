@@ -3,13 +3,13 @@
     "PackageFormatVersion":  1,
     "PackageId":  "metadata-provider-pack",
     "DisplayName":  "Metadata Provider Pack",
-    "PackageVersion":  "1.6.3",
+    "PackageVersion":  "1.6.4",
     "ProtocolVersion":  1,
     "ProviderHostPath":  "Proximonster.MetadataProviderHost.exe",
     "DistributionRepository":  "Proximonster-DLR-Engine-Channel",
-    "DistributionRelease":  "metadata-provider-v1.6.3",
-    "DistributionAsset":  "metadata-provider-pack-1.6.3.zip",
-    "DownloadUrl":  "https://github.com/proximonster/Proximonster-DLR-Engine-Channel/releases/download/metadata-provider-v1.6.3/metadata-provider-pack-1.6.3.zip",
-    "ArchiveSha256":  "37054c4f91982a62b34157c730c8763f845a3b956a475b85a084f978bff81981",
-    "PublishedAtUtc":  "2026-10-13T12:22:02.2692440+00:00"
+    "DistributionRelease":  "metadata-provider-v1.6.4",
+    "DistributionAsset":  "metadata-provider-pack-1.6.4.zip",
+    "DownloadUrl":  "https://github.com/proximonster/Proximonster-DLR-Engine-Channel/releases/download/metadata-provider-v1.6.4/metadata-provider-pack-1.6.4.zip",
+    "ArchiveSha256":  "de6b071711797159e15884f77b348f4b3ee746cc01e60017b792977ad14ce69b",
+    "PublishedAtUtc":  "2026-10-14T10:23:03.5073552+00:00"
 }
